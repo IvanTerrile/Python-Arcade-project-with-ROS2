@@ -4,4 +4,4 @@ This repository contains several projects developed in Python Arcade and ROS, fo
 # Dependencies
 The project targets ROS2 distributions. It has been successfully tested with Galactic and Humble distros (desktop installation).
 
-The only external depencency needed is Arcade library ((see Instructions for Linux install))[https://api.arcade.academy/en/latest/install/linux.html]
+The only external depencency needed is Arcade library [https://api.arcade.academy/en/latest/install/linux.html]((see Instructions for Linux install))
