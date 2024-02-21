@@ -1,0 +1,5 @@
+float64 radius
+int64 n_vertices 
+---
+float64[] x_vertices
+float64[] y_vertices
